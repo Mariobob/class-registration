@@ -1,0 +1,14 @@
+{
+  "username": "",
+  "password": "",
+  "firstRun": "True",
+  "termHTMLCode": "code from the term page, ex: 202301",
+  "numberOfClasses": 5,
+  "ENV": "TEST",
+  "BASE_URL": "BASE_URL_HERE",
+  "CRN_1": "12345",
+  "CRN_2": "12345",
+  "CRN_3": "12345",
+  "CRN_4": "12345",
+  "CRN_5": "12345"
+}
